@@ -1,0 +1,9 @@
+{
+    "name": "Rajan",
+    "last_name": "Walia",
+    "marks": {
+        "english": 99,
+        "maths": 100
+    },
+    "fav_colors" : ["red", "black", "blue"]
+}
